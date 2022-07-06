@@ -1,6 +1,6 @@
-Hola Net2 DDOs ATTACK SYN FLood Oriented :D
+Hola Net2 DDoS Attack :D 
 
-DO NOT USE THIS CODE TO ATTACK PEOPLE USE IT ETHICALY !!
+(This code was implemented for studies purposes, Use it wisely please)
 
 A simply way to send a Syn flood too is having Hping3 tool and lunch this Command:
 
